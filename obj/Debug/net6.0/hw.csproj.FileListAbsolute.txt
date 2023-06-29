@@ -1,0 +1,15 @@
+X:\GEEKBRAINS\C#\1sem\hw\bin\Debug\net6.0\hw.exe
+X:\GEEKBRAINS\C#\1sem\hw\bin\Debug\net6.0\hw.deps.json
+X:\GEEKBRAINS\C#\1sem\hw\bin\Debug\net6.0\hw.runtimeconfig.json
+X:\GEEKBRAINS\C#\1sem\hw\bin\Debug\net6.0\hw.dll
+X:\GEEKBRAINS\C#\1sem\hw\bin\Debug\net6.0\hw.pdb
+X:\GEEKBRAINS\C#\1sem\hw\obj\Debug\net6.0\hw.csproj.AssemblyReference.cache
+X:\GEEKBRAINS\C#\1sem\hw\obj\Debug\net6.0\hw.GeneratedMSBuildEditorConfig.editorconfig
+X:\GEEKBRAINS\C#\1sem\hw\obj\Debug\net6.0\hw.AssemblyInfoInputs.cache
+X:\GEEKBRAINS\C#\1sem\hw\obj\Debug\net6.0\hw.AssemblyInfo.cs
+X:\GEEKBRAINS\C#\1sem\hw\obj\Debug\net6.0\hw.csproj.CoreCompileInputs.cache
+X:\GEEKBRAINS\C#\1sem\hw\obj\Debug\net6.0\hw.dll
+X:\GEEKBRAINS\C#\1sem\hw\obj\Debug\net6.0\refint\hw.dll
+X:\GEEKBRAINS\C#\1sem\hw\obj\Debug\net6.0\hw.pdb
+X:\GEEKBRAINS\C#\1sem\hw\obj\Debug\net6.0\hw.genruntimeconfig.cache
+X:\GEEKBRAINS\C#\1sem\hw\obj\Debug\net6.0\ref\hw.dll
